@@ -1,3 +1,3 @@
 # Blockchain
 
-Blockchain.js implemented using functions instaed of classes.
+Blockchain.js implemented using functions instead of classes.
